@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "MessageQueue.Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MessageQueue.Common": "1.0.0",
+          "MessageQueue.DataStructures": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MessageQueue.Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessageQueue.Client.dll": {}
+        }
+      },
+      "MessageQueue.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MessageQueue.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessageQueue.Common.dll": {}
+        }
+      },
+      "MessageQueue.DataStructures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MessageQueue.DataStructures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MessageQueue.DataStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageQueue.Client/1.0.0": {
+      "type": "project",
+      "path": "../MessageQueue.Client/MessageQueue.Client.csproj",
+      "msbuildProject": "../MessageQueue.Client/MessageQueue.Client.csproj"
+    },
+    "MessageQueue.Common/1.0.0": {
+      "type": "project",
+      "path": "../MessageQueue.Common/MessageQueue.Common.csproj",
+      "msbuildProject": "../MessageQueue.Common/MessageQueue.Common.csproj"
+    },
+    "MessageQueue.DataStructures/1.0.0": {
+      "type": "project",
+      "path": "../../MessageQueue.DataStructures/MessageQueue.DataStructures.csproj",
+      "msbuildProject": "../../MessageQueue.DataStructures/MessageQueue.DataStructures.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MessageQueue.Client >= 1.0.0",
+      "MessageQueue.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\adrim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\MessageQueue.GUI.csproj",
+      "projectName": "MessageQueue.GUI",
+      "projectPath": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\MessageQueue.GUI.csproj",
+      "packagesPath": "C:\\Users\\adrim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\adrim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MessageQueue.Client.csproj": {
+              "projectPath": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MessageQueue.Client.csproj"
+            },
+            "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Common\\MessageQueue.Common.csproj": {
+              "projectPath": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Common\\MessageQueue.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

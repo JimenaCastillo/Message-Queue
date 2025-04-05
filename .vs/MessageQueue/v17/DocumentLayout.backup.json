@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.client\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|solutionrelative:messagequeue.client\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.client\\mqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|solutionrelative:messagequeue.client\\mqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.client\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|solutionrelative:messagequeue.client\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.client\\messagequeue.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18295A4A-B2C7-359F-8DD5-C9C927512655}|MessageQueue.Client\\MessageQueue.Client.csproj|solutionrelative:messagequeue.client\\messagequeue.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.broker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|solutionrelative:messagequeue.broker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.broker\\mqbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|solutionrelative:messagequeue.broker\\mqbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.broker\\messagequeue.broker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF433599-5574-D16A-157A-3811EB00DEC4}|MessageQueue.Broker\\MessageQueue.Broker.csproj|solutionrelative:messagequeue.broker\\messagequeue.broker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3583FFA1-EA06-DE49-A7B0-8964BB3327B5}|MessageQueue.Common\\MessageQueue.Common.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.common\\messagequeue.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3583FFA1-EA06-DE49-A7B0-8964BB3327B5}|MessageQueue.Common\\MessageQueue.Common.csproj|solutionrelative:messagequeue.common\\messagequeue.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246A27C-BF94-ADF5-2BA4-2306E0A282F3}|MessageQueue.GUI\\MessageQueue.GUI.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C246A27C-BF94-ADF5-2BA4-2306E0A282F3}|MessageQueue.GUI\\MessageQueue.GUI.csproj|solutionrelative:messagequeue.gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C246A27C-BF94-ADF5-2BA4-2306E0A282F3}|MessageQueue.GUI\\MessageQueue.GUI.csproj|c:\\users\\adrim\\source\\repos\\jimenacastillo\\message-queue\\messagequeue.gui\\messagequeue.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C246A27C-BF94-ADF5-2BA4-2306E0A282F3}|MessageQueue.GUI\\MessageQueue.GUI.csproj|solutionrelative:messagequeue.gui\\messagequeue.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\Topic.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Client\\Topic.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\Topic.cs",
+              "RelativeToolTip": "MessageQueue.Client\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:30:31.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MQClient.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MQClient.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Client\\MQClient.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MQClient.cs",
+              "RelativeToolTip": "MessageQueue.Client\\MQClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:30:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\Message.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Client\\Message.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\Message.cs",
+              "RelativeToolTip": "MessageQueue.Client\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:30:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\Program.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Broker\\Program.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\Program.cs",
+              "RelativeToolTip": "MessageQueue.Broker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:30:04.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MQBroker.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\MQBroker.cs",
+              "RelativeDocumentMoniker": "MessageQueue.Broker\\MQBroker.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\MQBroker.cs",
+              "RelativeToolTip": "MessageQueue.Broker\\MQBroker.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:30:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageQueue.Broker",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\MessageQueue.Broker.csproj",
+              "RelativeDocumentMoniker": "MessageQueue.Broker\\MessageQueue.Broker.csproj",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Broker\\MessageQueue.Broker.csproj",
+              "RelativeToolTip": "MessageQueue.Broker\\MessageQueue.Broker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:29:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageQueue.Client",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MessageQueue.Client.csproj",
+              "RelativeDocumentMoniker": "MessageQueue.Client\\MessageQueue.Client.csproj",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Client\\MessageQueue.Client.csproj",
+              "RelativeToolTip": "MessageQueue.Client\\MessageQueue.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:29:22.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageQueue.Common",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Common\\MessageQueue.Common.csproj",
+              "RelativeDocumentMoniker": "MessageQueue.Common\\MessageQueue.Common.csproj",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.Common\\MessageQueue.Common.csproj",
+              "RelativeToolTip": "MessageQueue.Common\\MessageQueue.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:29:21.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MessageQueue.GUI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "MessageQueue.GUI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:29:18.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageQueue.GUI",
+              "DocumentMoniker": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\MessageQueue.GUI.csproj",
+              "RelativeDocumentMoniker": "MessageQueue.GUI\\MessageQueue.GUI.csproj",
+              "ToolTip": "C:\\Users\\adrim\\source\\repos\\JimenaCastillo\\Message-Queue\\MessageQueue.GUI\\MessageQueue.GUI.csproj",
+              "RelativeToolTip": "MessageQueue.GUI\\MessageQueue.GUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:29:14.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

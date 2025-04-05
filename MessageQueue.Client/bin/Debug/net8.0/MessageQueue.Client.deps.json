@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MessageQueue.Client/1.0.0": {
+        "dependencies": {
+          "MessageQueue.Common": "1.0.0"
+        },
+        "runtime": {
+          "MessageQueue.Client.dll": {}
+        }
+      },
+      "MessageQueue.Common/1.0.0": {
+        "runtime": {
+          "MessageQueue.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageQueue.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessageQueue.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

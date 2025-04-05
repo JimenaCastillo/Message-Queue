@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MessageQueue.Broker\\MessageQueue.Broker.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MessageQueue.GUI\\MessageQueue.GUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

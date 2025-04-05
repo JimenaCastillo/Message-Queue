@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MessageQueue.Common/1.0.0": {
+        "runtime": {
+          "MessageQueue.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageQueue.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

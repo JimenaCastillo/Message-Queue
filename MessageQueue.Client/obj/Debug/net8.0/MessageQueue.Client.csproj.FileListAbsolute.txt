@@ -1,0 +1,16 @@
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.csproj.AssemblyReference.cache
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.AssemblyInfoInputs.cache
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.AssemblyInfo.cs
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.csproj.CoreCompileInputs.cache
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.sourcelink.json
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\bin\Debug\net8.0\MessageQueue.Client.deps.json
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\bin\Debug\net8.0\MessageQueue.Client.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\bin\Debug\net8.0\MessageQueue.Client.pdb
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\bin\Debug\net8.0\MessageQueue.Common.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\bin\Debug\net8.0\MessageQueue.Common.pdb
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQ.52A00569.Up2Date
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\refint\MessageQueue.Client.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\MessageQueue.Client.pdb
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Client\obj\Debug\net8.0\ref\MessageQueue.Client.dll

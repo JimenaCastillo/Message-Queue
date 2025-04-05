@@ -1,0 +1,12 @@
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\bin\Debug\net8.0\MessageQueue.Common.deps.json
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\bin\Debug\net8.0\MessageQueue.Common.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\bin\Debug\net8.0\MessageQueue.Common.pdb
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.AssemblyInfoInputs.cache
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.AssemblyInfo.cs
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.csproj.CoreCompileInputs.cache
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.sourcelink.json
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\refint\MessageQueue.Common.dll
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\MessageQueue.Common.pdb
+C:\Users\adrim\source\repos\JimenaCastillo\Message-Queue\MessageQueue.Common\obj\Debug\net8.0\ref\MessageQueue.Common.dll
