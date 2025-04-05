@@ -107,7 +107,7 @@ Este proyecto está bajo la Licencia Apache-2.0. Para más detalles, consulta el
 
 ---
 
-Desarrollado por [Jimena Castillo](https://github.com/JimenaCastillo) y [Adrian Monge Mairena](https://github.com/Preko700) como parte del curso de Algoritmos y Estructuras de Datos I.
+Desarrollado por [Jimena Castillo](https://github.com/JimenaCastillo) y [Adrian Monge Mairena](https://github.com/Preko700) como parte del curso de Algoritmos y Estructuras de Datos I(CE1103), del Tecnológico de Costa Rica en la Carrera de Ingeniería en Computadores el Primer Semestre del 2025
 
 ---
 
