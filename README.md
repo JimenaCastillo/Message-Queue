@@ -14,7 +14,7 @@ El proyecto se compone de tres componentes principales:
 
 ## Requerimientos
 
-- .NET 5.0 o superior
+- .NET 8.0 o superior
 
 ## Instrucciones de Instalación
 
