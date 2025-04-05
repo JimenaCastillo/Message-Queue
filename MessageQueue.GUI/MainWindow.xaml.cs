@@ -4,12 +4,15 @@ using System.Windows;
 
 namespace MessageQueue.GUI
 {
+    // Lógica de interacción para MainWindow.xaml
     public partial class MainWindow : Window
     {
         private MQClient _client;
         private Guid _appId;
         private ObservableCollection<string> _messages;
 
+
+        // Inicializa una nueva instancia de la clase <see cref="MainWindow"/>.
         public MainWindow()
         {
             InitializeComponent();
@@ -26,6 +29,7 @@ namespace MessageQueue.GUI
             InitializeClient();
         }
 
+        // Inicializa el cliente MQClient con la IP y el puerto del servidor.
         private void InitializeClient()
         {
             try
@@ -47,6 +51,7 @@ namespace MessageQueue.GUI
             }
         }
 
+        // Maneja el evento de clic del botón de suscripción.
         private void SubscribeButton_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -67,6 +72,8 @@ namespace MessageQueue.GUI
             }
         }
 
+
+        // Maneja el evento de clic del botón de cancelación de suscripción.
         private void UnsubscribeButton_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -78,7 +85,7 @@ namespace MessageQueue.GUI
                 }
                 else
                 {
-                    UpdateStatus($"No se pudo desusbcribir del tema: {topic}");
+                    UpdateStatus($"No se pudo desuscribir del tema: {topic}");
                 }
             }
             catch (Exception ex)
@@ -87,6 +94,7 @@ namespace MessageQueue.GUI
             }
         }
 
+        // Maneja el evento de clic del botón de publicación.
         private void PublishButton_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -110,6 +118,7 @@ namespace MessageQueue.GUI
             }
         }
 
+        // Maneja el evento de clic del botón de recepción.
         private void ReceiveButton_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -129,11 +138,14 @@ namespace MessageQueue.GUI
             }
         }
 
+        // Actualiza el estado de la aplicación con el mensaje proporcionado.
         private void UpdateStatus(string message)
         {
             StatusTextBlock.Text = message;
         }
 
+        // Maneja el evento de cambio de texto en el cuadro de texto del ID de la aplicación.
+ 
         private void AppIdTextBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
 

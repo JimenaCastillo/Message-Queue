@@ -9,6 +9,7 @@ using MessageQueue.DataStructures;
 
 namespace MessageQueue.Broker
 {
+    // Clase que representa el broker de la cola de mensajes.
     public class MQBroker
     {
         private TcpListener _server;
@@ -21,12 +22,13 @@ namespace MessageQueue.Broker
         // Almacena las colas de mensajes: (AppId, Topic) -> Cola de mensajes
         private readonly HashMap<string, Queue<string>> _queues;
 
+        //Inicializa una nueva instancia de la clase <see cref="MQBroker"/>.
         public MQBroker()
         {
             _topicSubscriptions = new HashMap<string, LinkedList<Guid>>();
             _queues = new HashMap<string, Queue<string>>();
         }
-
+        // Inicia el servidor del broker y comienza a escuchar conexiones entrantes.
         public async Task Start()
         {
             try
@@ -57,6 +59,8 @@ namespace MessageQueue.Broker
             }
         }
 
+
+        //Maneja la conexión de un cliente de manera asíncrona.
         private async Task HandleClientAsync(TcpClient client)
         {
             using (client)
@@ -119,6 +123,7 @@ namespace MessageQueue.Broker
             }
         }
 
+        // Maneja la solicitud de suscripción de un cliente.
         private ProtocolMessage HandleSubscribe(ProtocolMessage request)
         {
             var appId = request.AppId;
@@ -156,6 +161,8 @@ namespace MessageQueue.Broker
             };
         }
 
+
+        // Maneja la solicitud de cancelación de suscripción de un cliente.
         private ProtocolMessage HandleUnsubscribe(ProtocolMessage request)
         {
             var appId = request.AppId;
@@ -202,6 +209,7 @@ namespace MessageQueue.Broker
             };
         }
 
+        // Maneja la solicitud de publicación de un mensaje por parte de un cliente.
         private ProtocolMessage HandlePublish(ProtocolMessage request)
         {
             var appId = request.AppId;
@@ -245,6 +253,8 @@ namespace MessageQueue.Broker
             };
         }
 
+
+        // Maneja la solicitud de recepción de mensajes por parte de un cliente.
         private ProtocolMessage HandleReceive(ProtocolMessage request)
         {
             var appId = request.AppId;

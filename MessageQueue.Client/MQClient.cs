@@ -4,12 +4,16 @@ using System.Text;
 
 namespace MessageQueue.Client
 {
+
+    // Clase que representa un cliente de la cola de mensajes.
     public class MQClient
     {
         private readonly string _serverIp;
         private readonly int _serverPort;
         private readonly Guid _appId;
 
+
+        // Inicializa una nueva instancia de la clase <see cref="MQClient"/>.
         public MQClient(string ip, int port, Guid appId)
         {
             if (string.IsNullOrWhiteSpace(ip))
@@ -26,6 +30,8 @@ namespace MessageQueue.Client
             _appId = appId;
         }
 
+
+        // Suscribe el cliente a un tema.
         public bool Subscribe(Topic topic)
         {
             if (topic == null)
@@ -42,6 +48,7 @@ namespace MessageQueue.Client
             return response.Success;
         }
 
+        // Cancela la suscripción del cliente a un tema.
         public bool Unsubscribe(Topic topic)
         {
             if (topic == null)
@@ -58,6 +65,7 @@ namespace MessageQueue.Client
             return response.Success;
         }
 
+        // Publica un mensaje en un tema.
         public bool Publish(Message message, Topic topic)
         {
             if (message == null)
@@ -78,6 +86,7 @@ namespace MessageQueue.Client
             return response.Success;
         }
 
+        // Recibe un mensaje de un tema.
         public Message Receive(Topic topic)
         {
             if (topic == null)
@@ -98,6 +107,8 @@ namespace MessageQueue.Client
             return new Message(response.Content);
         }
 
+
+        // Envía una solicitud al servidor y recibe la respuesta.
         private ProtocolMessage SendRequest(ProtocolMessage request)
         {
             try
